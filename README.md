@@ -2,9 +2,9 @@
 Pixel Dailies files and pictures including templates and workflow.
 
 # History
-| Number  | Theme | Date  | Title | Description | URL |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 001 | Hotel | 01.01.2018 | Aburaya | Bathhouse Aburaya from Spirited Away by Studio Ghibli | <sub>https://twitter.com/ErisTubo/status/947912868627918849</sub>
+| Number  | Theme | Date  | Title | Description | Duration | URL |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 001 | Hotel | 01.01.2018 | Aburaya | Bathhouse Aburaya from Spirited Away by Studio Ghibli | >3h |<sub>https://twitter.com/ErisTubo/status/947912868627918849</sub>
 | 002 | - | 02.01.2018 | - |
 | 003 | - | 03.01.2018 | - |
 | 004 | - | 04.01.2018 | - |
