@@ -23,5 +23,5 @@ This is to ensure that twitter doesn't stretch the gif width and height to the d
 As for normal PD image files and not gif files Twitter will not stretch but this should keep every post to the same format.
 
 # To Do
-[] Workflow isn't as visualize. Update workflow picture.
-[] Fix Twitter not looping right. See 001 on Twitter for example.
+- [ ] Workflow isn't as visualize. Update workflow picture.
+- [ ] Fix Twitter not looping right. See 001 (Twitter post) for example.
