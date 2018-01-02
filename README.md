@@ -4,8 +4,8 @@ Pixel Dailies files and pictures including templates and workflow.
 # History
 | Nr  | Theme | Date  | Title | Description | Time | URL |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 001 | <sub>Hotel</sub> | 1.1.2018 | <sub>Aburaya</sub> | <sub>Bathhouse Aburaya from Spirited Away by Studio Ghibli</sub> | +3h |  <sub>https://twitter.com/ErisTubo/status/947912868627918849</sub>
-| 002 | - | 2.1.2018 | - | <sub></sub> | 0h |  <sub></sub>
+| <sub>001</sub> | <sub>Hotel</sub> | <sub>1.1.2018</sub> | <sub>Aburaya</sub> | <sub>Bathhouse Aburaya from Spirited Away by Studio Ghibli</sub> | <sub>+3h</sub> | <sub>https://twitter.com/ErisTubo/status/947912868627918849</sub>
+| <sub>002</sub> | <sub>-</sub> | <sub>2.1.2018</sub> | <sub>-</sub> | <sub></sub> | <sub>0h</sub> | <sub></sub>
 
 # Template & Workflow
 Workflow image shows how to use the template for posting purposes.
