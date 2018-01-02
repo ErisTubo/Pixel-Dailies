@@ -6,7 +6,7 @@ You need Asesprite to use the files. As for the pictures they are mostly safed a
 | Nr  | Theme | Date  | Title | Description | Time | URL |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | <sub>001</sub> | <sub>Hotel</sub> | <sub>1.1.2018</sub> | <sub>Aburaya</sub> | <sub>Bathhouse Aburaya from Spirited Away by Studio Ghibli</sub> | <sub>+3h</sub> | <sub>https://twitter.com/ErisTubo/status/947912868627918849</sub>
-| <sub>002</sub> | <sub>-</sub> | <sub>2.1.2018</sub> | <sub>-</sub> | <sub></sub> | <sub>0h</sub> | <sub></sub>
+| <sub>002</sub> | <sub>Sneaking</sub> | <sub>2.1.2018</sub> | <sub>Solid Trap</sub> | <sub>Boss is in a pinch :C</sub> | <sub>3h</sub> | <sub>https://twitter.com/ErisTubo/status/948332650326102017</sub>
 | <sub>003</sub> | <sub>-</sub> | <sub>3.1.2018</sub> | <sub>-</sub> | <sub></sub> | <sub>0h</sub> | <sub></sub>
 
 # Template & Workflow
