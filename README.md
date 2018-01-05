@@ -32,6 +32,7 @@ As for normal PD image files and not gif files Twitter will not stretch but this
 At the end of the day I have a raw version of the pixelart and a version resized up to the height and width of a twitter post also this make it not looked like it was made for ants.
 
 # To Do
-- [ ] Fix Twitter not looping right on desktop version.
-- [ ] Optimize workflow.
+- [x] Fix Twitter not looping right on desktop version.
+- [x] Optimize workflow.
+- [ ] Add updated HUD to Template-2
 - [ ] Make a workflow image, just because.
