@@ -10,8 +10,16 @@ You need Asesprite to use the files. As for the pictures they are mostly safed a
 | <sub>003</sub> | <sub>Blackhole</sub> | <sub>5.1.2018</sub> | <sub>Tesseract</sub> | <sub>This scene https://www.youtube.com/watch?v=xo3N9Brp2CU</sub> | <sub>-5h</sub> | <sub>https://twitter.com/ErisTubo/status/949072981581582337</sub>
 | <sub>004</sub> | <sub>Spices</sub> | <sub>5.1.2018</sub> | <sub>Hotpotion</sub> | <sub>In case you of hotty. Brings sexy back!</sub> | <sub>-2h</sub> | <sub>https://twitter.com/ErisTubo/status/949119157303472128</sub>
 | <sub>005</sub> | <sub>Lonely</sub> | <sub>5.1.2018</sub> | <sub>Fort Solitude</sub> | <sub>Solitude is a bliss and shes my fortress</sub> | <sub>-2h</sub> | <sub>https://twitter.com/ErisTubo/status/949395135200153601</sub>
-| <sub>006</sub> | <sub>-</sub> | <sub>3.1.2018</sub> | <sub>-</sub> | <sub></sub> | <sub>0h</sub> | <sub></sub>
-
+| <sub>006</sub> | <sub>Swamp</sub> | <sub>7.1.2018</sub> | <sub>Swampheart</sub> | <sub>The calm after the flood</sub> | <sub>+3h</sub> | <sub>https://twitter.com/ErisTubo/status/949852694327496704</sub>
+| <sub>007</sub> | <sub>-</sub> | <sub>7.1.2018</sub> | <sub>-</sub> | <sub></sub> | <sub>0h</sub> | <sub></sub>
+| <sub>008</sub> | <sub>-</sub> | <sub>8.1.2018</sub> | <sub>-</sub> | <sub></sub> | <sub>0h</sub> | <sub></sub>
+| <sub>009</sub> | <sub>-</sub> | <sub>9.1.2018</sub> | <sub>-</sub> | <sub></sub> | <sub>0h</sub> | <sub></sub>
+| <sub>010</sub> | <sub>-</sub> | <sub>10.1.2018</sub> | <sub>-</sub> | <sub></sub> | <sub>0h</sub> | <sub></sub>
+| <sub>011</sub> | <sub>-</sub> | <sub>11.1.2018</sub> | <sub>-</sub> | <sub></sub> | <sub>0h</sub> | <sub></sub>
+| <sub>012</sub> | <sub>-</sub> | <sub>12.1.2018</sub> | <sub>-</sub> | <sub></sub> | <sub>0h</sub> | <sub></sub>
+| <sub>013</sub> | <sub>-</sub> | <sub>13.1.2018</sub> | <sub>-</sub> | <sub></sub> | <sub>0h</sub> | <sub></sub>
+| <sub>014</sub> | <sub>-</sub> | <sub>14.1.2018</sub> | <sub>-</sub> | <sub></sub> | <sub>0h</sub> | <sub></sub>
+| <sub>015</sub> | <sub>-</sub> | <sub>15.1.2018</sub> | <sub>-</sub> | <sub></sub> | <sub>0h</sub> | <sub></sub>
 
 # Template & Workflow
 There are Template-1 & Template-2 in the root folder.
@@ -34,5 +42,6 @@ At the end of the day I have a raw version of the pixelart and a version resized
 # To Do
 - [x] Fix Twitter not looping right on desktop version.
 - [x] Optimize workflow.
+- [x] Add Side projects.
 - [ ] Add updated HUD to Template-2
 - [ ] Make a workflow image, just because.
