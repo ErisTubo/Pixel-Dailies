@@ -47,3 +47,4 @@ At the end of the day I have a raw version of the pixelart and a version resized
 - [ ] Make a workflow image, just because.
 - [ ] Redefine Template section.
 - [ ] Add how to use files description to each or overall PD
+- [ ] Add theme and title to folder structures
