@@ -11,10 +11,10 @@ You need Asesprite to use the files. As for the pictures they are mostly safed a
 | <sub>004</sub> | <sub>Spices</sub> | <sub>5.1.2018</sub> | <sub>Hotpotion</sub> | <sub>In case you of hotty. Brings sexy back!</sub> | <sub>-2h</sub> | <sub>https://twitter.com/ErisTubo/status/949119157303472128</sub>
 | <sub>005</sub> | <sub>Lonely</sub> | <sub>5.1.2018</sub> | <sub>Fort Solitude</sub> | <sub>Solitude is a bliss and shes my fortress</sub> | <sub>-2h</sub> | <sub>https://twitter.com/ErisTubo/status/949395135200153601</sub>
 | <sub>006</sub> | <sub>Swamp</sub> | <sub>7.1.2018</sub> | <sub>Swampheart</sub> | <sub>The calm after the flood</sub> | <sub>+3h</sub> | <sub>https://twitter.com/ErisTubo/status/949852694327496704</sub>
-| <sub>007</sub> | <sub>-</sub> | <sub>7.1.2018</sub> | <sub>-</sub> | <sub></sub> | <sub>0h</sub> | <sub></sub>
-| <sub>008</sub> | <sub>-</sub> | <sub>8.1.2018</sub> | <sub>-</sub> | <sub></sub> | <sub>0h</sub> | <sub></sub>
-| <sub>009</sub> | <sub>-</sub> | <sub>9.1.2018</sub> | <sub>-</sub> | <sub></sub> | <sub>0h</sub> | <sub></sub>
-| <sub>010</sub> | <sub>-</sub> | <sub>10.1.2018</sub> | <sub>-</sub> | <sub></sub> | <sub>0h</sub> | <sub></sub>
+| <sub>007</sub> | <sub>La Mulana</sub> | <sub>10.1.2018</sub> | <sub>Tiamat</sub> | <sub>One of the hardest bosses from Lamulana. Also lets not talk about this...</sub> | <sub>3h</sub> | <sub>https://twitter.com/ErisTubo/status/950870299012157442</sub>
+| <sub>008</sub> | <sub>Baseball</sub> | <sub>10.1.2018</sub> | <sub>Lemme Smash</sub> | <sub>Ness smash attack with the bat</sub> | <sub>-4h</sub> | <sub>https://twitter.com/ErisTubo/status/950952336284946432</sub>
+| <sub>009</sub> | <sub>Picnic</sub> | <sub>10.1.2018</sub> | <sub>Summer Nap</sub> | <sub>Kirby napping while Jigglypuff is performing</sub> | <sub>1h</sub> | <sub>https://twitter.com/ErisTubo/status/950993324877516800</sub>
+| <sub>010</sub> | <sub>Bottle</sub> | <sub>11.1.2018</sub> | <sub>LonLon Milk</sub> | <sub>So fresh and cold</sub> | <sub>-4h</sub> | <sub>https://twitter.com/ErisTubo/status/951239664635138054</sub>
 | <sub>011</sub> | <sub>-</sub> | <sub>11.1.2018</sub> | <sub>-</sub> | <sub></sub> | <sub>0h</sub> | <sub></sub>
 | <sub>012</sub> | <sub>-</sub> | <sub>12.1.2018</sub> | <sub>-</sub> | <sub></sub> | <sub>0h</sub> | <sub></sub>
 | <sub>013</sub> | <sub>-</sub> | <sub>13.1.2018</sub> | <sub>-</sub> | <sub></sub> | <sub>0h</sub> | <sub></sub>
@@ -43,5 +43,5 @@ At the end of the day I have a raw version of the pixelart and a version resized
 - [x] Fix Twitter not looping right on desktop version.
 - [x] Optimize workflow.
 - [x] Add Side projects.
-- [ ] Add updated HUD to Template-2
+- [x] Add updated HUD to Template-2
 - [ ] Make a workflow image, just because.
