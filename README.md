@@ -43,5 +43,7 @@ At the end of the day I have a raw version of the pixelart and a version resized
 - [x] Fix Twitter not looping right on desktop version.
 - [x] Optimize workflow.
 - [x] Add Side projects.
-- [x] Add updated HUD to Template-2
+- [x] Add updated HUD to Template-2.
 - [ ] Make a workflow image, just because.
+- [ ] Redefine Template section.
+- [ ] Add how to use files description to each or overall PD
