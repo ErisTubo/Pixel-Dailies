@@ -15,7 +15,7 @@ You need Asesprite to use the files. As for the pictures they are mostly safed a
 | <sub>008</sub> | <sub>Baseball</sub> | <sub>10.1.2018</sub> | <sub>Lemme Smash</sub> | <sub>Ness smash attack with the bat</sub> | <sub>-4h</sub> | <sub>https://twitter.com/ErisTubo/status/950952336284946432</sub>
 | <sub>009</sub> | <sub>Picnic</sub> | <sub>10.1.2018</sub> | <sub>Summer Nap</sub> | <sub>Kirby napping while Jigglypuff is performing</sub> | <sub>1h</sub> | <sub>https://twitter.com/ErisTubo/status/950993324877516800</sub>
 | <sub>010</sub> | <sub>Bottle</sub> | <sub>11.1.2018</sub> | <sub>LonLon Milk</sub> | <sub>So fresh and cold</sub> | <sub>-4h</sub> | <sub>https://twitter.com/ErisTubo/status/951239664635138054</sub>
-| <sub>011</sub> | <sub>-</sub> | <sub>11.1.2018</sub> | <sub>-</sub> | <sub></sub> | <sub>0h</sub> | <sub></sub>
+| <sub>011</sub> | <sub>Meditation</sub> | <sub>12.1.2018</sub> | <sub>Inner Peace</sub> | <sub>Oogway finally finds tranquility.</sub> | <sub>+5h</sub> | <sub>https://twitter.com/ErisTubo/status/951762608675348480</sub>
 | <sub>012</sub> | <sub>-</sub> | <sub>12.1.2018</sub> | <sub>-</sub> | <sub></sub> | <sub>0h</sub> | <sub></sub>
 | <sub>013</sub> | <sub>-</sub> | <sub>13.1.2018</sub> | <sub>-</sub> | <sub></sub> | <sub>0h</sub> | <sub></sub>
 | <sub>014</sub> | <sub>-</sub> | <sub>14.1.2018</sub> | <sub>-</sub> | <sub></sub> | <sub>0h</sub> | <sub></sub>
