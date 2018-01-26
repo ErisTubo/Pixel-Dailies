@@ -1,50 +1,46 @@
+# Hi!
+Nice too meet cha!
+I'm Eris and I do pixel art from time to time :) you can see my recent updates on my [Twitter](https://twitter/eristubo) or on my [Blog](https://eristubo.github.io) where I post even more pixels and codes.
+
 # Pixel-Dailies
-Pixel Dailies files and pictures including templates and workflow.
-You need Asesprite to use the files. As for the pictures they are mostly safed as gifs or png and can be open by most programs.
+Pixel Dailies is a pixel art group that started on twitter in mid 2014. Based on the successful art group Sketch Dailies, Pixel Dailies (PD) is a place for people to practise their pixel art by doing pixel art every day. Under such huge time constraints, you can’t afford to endlessly iterate on a piece, rather you just have to get it done and move on to the next day.
 
-# History
-| Nr  | Theme | Date  | Title | Description | Time | URL |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| <sub>001</sub> | <sub>Hotel</sub> | <sub>1.1.2018</sub> | <sub>Aburaya</sub> | <sub>Bathhouse Aburaya from Spirited Away by Studio Ghibli</sub> | <sub>+3h</sub> | <sub>https://twitter.com/ErisTubo/status/947912868627918849</sub>
-| <sub>002</sub> | <sub>Sneaking</sub> | <sub>2.1.2018</sub> | <sub>Solid Trap</sub> | <sub>Boss is in a pinch :C</sub> | <sub>3h</sub> | <sub>https://twitter.com/ErisTubo/status/948332650326102017</sub>
-| <sub>003</sub> | <sub>Blackhole</sub> | <sub>5.1.2018</sub> | <sub>Tesseract</sub> | <sub>This scene https://www.youtube.com/watch?v=xo3N9Brp2CU</sub> | <sub>-5h</sub> | <sub>https://twitter.com/ErisTubo/status/949072981581582337</sub>
-| <sub>004</sub> | <sub>Spices</sub> | <sub>5.1.2018</sub> | <sub>Hotpotion</sub> | <sub>In case you of hotty. Brings sexy back!</sub> | <sub>-2h</sub> | <sub>https://twitter.com/ErisTubo/status/949119157303472128</sub>
-| <sub>005</sub> | <sub>Lonely</sub> | <sub>5.1.2018</sub> | <sub>Fort Solitude</sub> | <sub>Solitude is a bliss and shes my fortress</sub> | <sub>-2h</sub> | <sub>https://twitter.com/ErisTubo/status/949395135200153601</sub>
-| <sub>006</sub> | <sub>Swamp</sub> | <sub>7.1.2018</sub> | <sub>Swampheart</sub> | <sub>The calm after the flood</sub> | <sub>+3h</sub> | <sub>https://twitter.com/ErisTubo/status/949852694327496704</sub>
-| <sub>007</sub> | <sub>La Mulana</sub> | <sub>10.1.2018</sub> | <sub>Tiamat</sub> | <sub>One of the hardest bosses from Lamulana. Also lets not talk about this...</sub> | <sub>3h</sub> | <sub>https://twitter.com/ErisTubo/status/950870299012157442</sub>
-| <sub>008</sub> | <sub>Baseball</sub> | <sub>10.1.2018</sub> | <sub>Lemme Smash</sub> | <sub>Ness smash attack with the bat</sub> | <sub>-4h</sub> | <sub>https://twitter.com/ErisTubo/status/950952336284946432</sub>
-| <sub>009</sub> | <sub>Picnic</sub> | <sub>10.1.2018</sub> | <sub>Summer Nap</sub> | <sub>Kirby napping while Jigglypuff is performing</sub> | <sub>1h</sub> | <sub>https://twitter.com/ErisTubo/status/950993324877516800</sub>
-| <sub>010</sub> | <sub>Bottle</sub> | <sub>11.1.2018</sub> | <sub>LonLon Milk</sub> | <sub>So fresh and cold</sub> | <sub>-4h</sub> | <sub>https://twitter.com/ErisTubo/status/951239664635138054</sub>
-| <sub>011</sub> | <sub>Meditation</sub> | <sub>12.1.2018</sub> | <sub>Inner Peace</sub> | <sub>Oogway finally finds tranquility.</sub> | <sub>+5h</sub> | <sub>https://twitter.com/ErisTubo/status/951762608675348480</sub>
-| <sub>012</sub> | <sub>-</sub> | <sub>12.1.2018</sub> | <sub>-</sub> | <sub></sub> | <sub>0h</sub> | <sub></sub>
-| <sub>013</sub> | <sub>-</sub> | <sub>13.1.2018</sub> | <sub>-</sub> | <sub></sub> | <sub>0h</sub> | <sub></sub>
-| <sub>014</sub> | <sub>-</sub> | <sub>14.1.2018</sub> | <sub>-</sub> | <sub></sub> | <sub>0h</sub> | <sub></sub>
-| <sub>015</sub> | <sub>-</sub> | <sub>15.1.2018</sub> | <sub>-</sub> | <sub></sub> | <sub>0h</sub> | <sub></sub>
+PD has allowed me to meet other pixel artist enthusiasts from around the world. The contributors to PD vary hugely in ability but we’re a friendly and supportive bunch. The themes are different every day and we try to cover all the interesting keywords.
 
-# Template & Workflow
-There are Template-1 & Template-2 in the root folder.
+This is a boiler plate from the official [homepage](https://bp.io/pd) but its the same depiction of my own opinion :relaxed:
+Join us in making pixels everyday. You are also welcome on our [Discord](http://discord.gg/T9Puddm): http://discord.gg/T9Puddm .
 
-Heres an example how I use these if theres a PD coming.
-1. Open Template-1 with Asesprite and saved under 'number-theme-date-title-1.ase' in folder 'number'.
-2. Create raw image or animation in that file.
-3. When finish save this version, resize it 2 times by 200% and copy whole layers and frames to Template-2.
-4. Save Template-2 as 'number-theme-date-title-2.ase' in the same folder as the first file.
-5. Undo resizing of the first file and close it.
-6. Draw title theme and color palette in the second file.
-7. Save and also export second file as gif.
-8. Update GitHub repository, create short URL from the new folder and post!
+# What is this?!
+This repository functions as a backup and database for me and my various projects.
+I've open it to the public so you may use it freely without any constrains but commercial use. See license [GPL3.0](https://www.gnu.org/licenses/gpl-3.0.en.html) .
 
-This is to ensure that twitter doesn't stretch the gif width and height to the default twitter post and therefor makes a small gif blurry.
-As for normal PD image files and not gif files Twitter will not stretch but this should keep every post to the same format.
+You need [Asesprite](https://www.aseprite.org/) to use the files.
+As for the pictures they are mostly saved as .gifs or .png and can be open by most softwares.
 
-At the end of the day I have a raw version of the pixelart and a version resized up to the height and width of a twitter post also this make it not looked like it was made for ants.
+# How to
+Each folder has contains 8 files:
+  - pd000.ase           Main Asesprite file. Can be 64x64, 128x128 or 256x256
 
-# To Do
-- [x] Fix Twitter not looping right on desktop version.
-- [x] Optimize workflow.
-- [x] Add Side projects.
-- [x] Add updated HUD to Template-2.
-- [ ] Make a workflow image, just because.
-- [ ] Redefine Template section.
-- [ ] Add how to use files description to each or overall PD
-- [ ] Add theme and title to folder structures
+  - pd000tiny.gif       64x64.gif
+  - pd000small.gif      128x128.gif
+  - pd000big.gif        256x256.gif
+
+  - pd000twitter.ase    File base on main. Has a frame and palette included. Size 506x506 perfectly matched for the Twitter wall
+  - pd000twitter.ase    506x506.gif
+
+  - pd000palette.ase    colorspalette.png
+
+  - README.md           Contains various meta keys and values for my projects like this [one](https://github.com/eristubo) .
+
+On new PDs, I open a new canvas in Asesprite of the size 64x64/128x128/256x256, which ever fits the image I want to convey. Mostly 64x64 base because for pd000small.gif and pd000big.gif I will not lose quality on upscalling.
+But you will find some of these images were made in 128x128 or even in 256x256. Those files have very bad smaller sized gifs but its okay for thumbnails I guess.
+
+# To do
+See [PD Projects](https://github.com/ErisTubo/Pixel-Dailies/projects) for overall progress.
+
+
+# But why?!
+I'm doing this to get better at pixel art for various reasons :stuck_out_tongue_winking_eye:
+Catch me at my [twitter](https://twitter.com/eristubo) | [blog](https://eristubo.github.io) | [github](https://github.com/eristubo) .
+
+For business inquiries, lets talk at [eristubo@gmail.com](eristubo@gmail.com) .
