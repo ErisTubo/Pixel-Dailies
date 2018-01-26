@@ -30,7 +30,7 @@ Each folder has contains 8 files:
 
   - pd000palette.ase    colorspalette.png
 
-  - README.md           Contains various meta keys and values for my projects like this [one](https://github.com/eristubo) .
+  - README.md           Contains various meta keys and values for my projects like this [one](https://github.com/eristubo) . Also contains the link to all social sites I uploaded to. 
 
 On new PDs, I open a new canvas in Asesprite of the size 64x64/128x128/256x256, which ever fits the image I want to convey. Mostly 64x64 base because for pd000small.gif and pd000big.gif I will not lose quality on upscalling.
 But you will find some of these images were made in 128x128 or even in 256x256. Those files have very bad smaller sized gifs but its okay for thumbnails I guess.
