@@ -32,7 +32,7 @@ pd000twitter.ase    Include frame and palette. 506x506, perfect for the Twitter 
 pd000twitter.ase    506x506.gif
 ```
 ```
-pd000palette.ase    colorspalette.png
+pd000palette.png    Banner, title & theme + color palette.
 ```
 ```
 README.md           Contains various meta keys, values and links to all social sites I uploaded to.
