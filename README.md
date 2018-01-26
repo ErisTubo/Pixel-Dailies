@@ -19,19 +19,24 @@ As for the pictures they are mostly saved as .gifs or .png and can be open by mo
 
 # How to
 Each folder has contains 8 files:
-  - pd000.ase           Main Asesprite file. Can be 64x64, 128x128 or 256x256
-
-  - pd000tiny.gif       64x64.gif
-  - pd000small.gif      128x128.gif
-  - pd000big.gif        256x256.gif
-
-  - pd000twitter.ase    File base on main. Has a frame and palette included. Size 506x506 perfectly matched for the Twitter wall
-  - pd000twitter.ase    506x506.gif
-
-  - pd000palette.ase    colorspalette.png
-
-  - README.md           Contains various meta keys and values for my projects like this [one](https://github.com/eristubo) . Also contains the link to all social sites I uploaded to. 
-
+```
+pd000.ase           Main Asesprite file. Can be 64x64, 128x128 or 256x256
+```
+```
+pd000tiny.gif       64x64.gif
+pd000small.gif      128x128.gif
+pd000big.gif        256x256.gif
+```
+```
+pd000twitter.ase    Include frame and palette. 506x506, perfect for the Twitter wall
+pd000twitter.ase    506x506.gif
+```
+```
+pd000palette.ase    colorspalette.png
+```
+```
+README.md           Contains various meta keys, values and links to all social sites I uploaded to.
+```
 On new PDs, I open a new canvas in Asesprite of the size 64x64/128x128/256x256, which ever fits the image I want to convey. Mostly 64x64 base because for pd000small.gif and pd000big.gif I will not lose quality on upscalling.
 But you will find some of these images were made in 128x128 or even in 256x256. Those files have very bad smaller sized gifs but its okay for thumbnails I guess.
 
@@ -41,6 +46,7 @@ See [PD Projects](https://github.com/ErisTubo/Pixel-Dailies/projects) for overal
 
 # But why?!
 I'm doing this to get better at pixel art for various reasons :stuck_out_tongue_winking_eye:
+
 Catch me at my [twitter](https://twitter.com/eristubo) | [blog](https://eristubo.github.io) | [github](https://github.com/eristubo) .
 
 For business inquiries, lets talk at [eristubo@gmail.com](eristubo@gmail.com) .
